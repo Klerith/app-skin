@@ -2,7 +2,12 @@
 console.log('Hola Mundo');
 
 
-const aminaFunction =() => {
+const brijesh = () =>
+{
+    console.log("This is brijesh")
+}
+
+const aminaFunction = () => {
     console.log('this is aminas branch');
 }
 
@@ -13,3 +18,4 @@ const nazarFunction = () => {
 const fernandoFunction = () => {
     console.log('This is Fernando branch');
 }
+
