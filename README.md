@@ -9,3 +9,10 @@ This is just a demo
 ```git checkout -b branch-name```  -- create a branch
 
 ```git checkout -- . ``` -- recovers everything from the last commit
+
+## to commit
+```
+git add .
+git commit -m "some useful message"
+git push  (remember to be working on your branch)
+```
