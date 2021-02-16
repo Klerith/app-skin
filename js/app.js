@@ -19,3 +19,6 @@ const fernandoFunction = () => {
     console.log('This is Fernando branch');
 }
 
+const manuelFunction = () => {
+    console.log("Hola profe como le va, un saludo desde Nicaragua, muchos exitos")
+}
