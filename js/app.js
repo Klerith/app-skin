@@ -19,3 +19,6 @@ const fernandoFunction = () => {
     console.log('This is Fernando branch');
 }
 
+const manuelFunction = () => {
+    console.log('This is Manuel branch');
+}
